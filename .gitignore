@@ -4,3 +4,14 @@
 *.pickle
 .idea
 .ipynb_checkpoints
+
+*__pycache__/
+samples*/
+runs/
+checkpoints/
+master_ip
+logs/
+*.DS_Store
+.idea
+output*
+test*
